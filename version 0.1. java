@@ -14,5 +14,9 @@ public class Main
             value= value/10;
         }
         System.out.println(rev);
+        /*StringBuffer str= new StringBuffer(String.valueOf(value));
+           StringBuffer rev= str.reverse();
+           System.out.println(rev);
+           Using inbuilt function*/
     }
 }
