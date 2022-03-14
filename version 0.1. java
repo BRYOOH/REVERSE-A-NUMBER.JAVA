@@ -18,5 +18,11 @@ public class Main
            StringBuffer rev= str.reverse();
            System.out.println(rev);
            Using inbuilt function*/
+           /* StringBuilder str= new StringBuilder();
+              str.append(value);
+              StringBuilder rev= str.reverse();
+              System.out.println(rev);
+           
+           */
     }
 }
